@@ -1,3 +1,5 @@
+import VideoUtils from '../../util/videoUtils';
+
 module.exports = {
     getBlocks() {
         return {
